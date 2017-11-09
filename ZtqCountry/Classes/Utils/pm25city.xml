@@ -1,0 +1,466 @@
+<?xml version="1.0" ?>
+<ROWDATA>
+    
+    <ROW>
+        <C0>1</C0>
+        <CITY>东莞</CITY>
+        <PINYIN>DongGuan</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>2</C0>
+        <CITY>丽水</CITY>
+        <PINYIN>LiShui</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>3</C0>
+        <CITY>佛山</CITY>
+        <PINYIN>FoShan</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>4</C0>
+        <CITY>兰州</CITY>
+        <PINYIN>LanZhou</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>5</C0>
+        <CITY>南京</CITY>
+        <PINYIN>NanJing</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>6</C0>
+        <CITY>南昌</CITY>
+        <PINYIN>NanChang</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>7</C0>
+        <CITY>厦门</CITY>
+        <PINYIN>XiaMen</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>8</C0>
+        <CITY>合肥</CITY>
+        <PINYIN>HeFei</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>9</C0>
+        <CITY>哈尔滨</CITY>
+        <PINYIN>HaErBin</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>10</C0>
+        <CITY>嘉兴</CITY>
+        <PINYIN>JiaXing</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>11</C0>
+        <CITY>大连</CITY>
+        <PINYIN>DaLian</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>12</C0>
+        <CITY>太原</CITY>
+        <PINYIN>TaiYuan</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>13</C0>
+        <CITY>宿迁</CITY>
+        <PINYIN>SuQian</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>14</C0>
+        <CITY>广州</CITY>
+        <PINYIN>GuangZhou</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>15</C0>
+        <CITY>张家口</CITY>
+        <PINYIN>ZhangJiaKou</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>16</C0>
+        <CITY>惠州</CITY>
+        <PINYIN>HuiZhou</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>17</C0>
+        <CITY>扬州</CITY>
+        <PINYIN>YangZhou</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>18</C0>
+        <CITY>拉萨</CITY>
+        <PINYIN>LaSa</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>19</C0>
+        <CITY>昆明</CITY>
+        <PINYIN>KunMing</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>20</C0>
+        <CITY>株洲</CITY>
+        <PINYIN>ZhuZhou</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>21</C0>
+        <CITY>江门</CITY>
+        <PINYIN>JiangMen</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>22</C0>
+        <CITY>沧州</CITY>
+        <PINYIN>CangZhou</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>23</C0>
+        <CITY>济南</CITY>
+        <PINYIN>JiNan</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>24</C0>
+        <CITY>淮安</CITY>
+        <PINYIN>HuaiAn</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>25</C0>
+        <CITY>温州</CITY>
+        <PINYIN>WenZhou</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>26</C0>
+        <CITY>湘潭</CITY>
+        <PINYIN>XiangTan</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>27</C0>
+        <CITY>盐城</CITY>
+        <PINYIN>YanCheng</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>28</C0>
+        <CITY>福州</CITY>
+        <PINYIN>FuZhou</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>29</C0>
+        <CITY>绍兴</CITY>
+        <PINYIN>ShaoXing</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>30</C0>
+        <CITY>舟山</CITY>
+        <PINYIN>ZhouShan</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>31</C0>
+        <CITY>衡水</CITY>
+        <PINYIN>HengShui</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>32</C0>
+        <CITY>西宁</CITY>
+        <PINYIN>XiNing</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>33</C0>
+        <CITY>贵阳</CITY>
+        <PINYIN>GuiYang</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>34</C0>
+        <CITY>邢台</CITY>
+        <PINYIN>XingTai</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>35</C0>
+        <CITY>郑州</CITY>
+        <PINYIN>ZhengZhou</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>36</C0>
+        <CITY>金华</CITY>
+        <PINYIN>JinHua</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>37</C0>
+        <CITY>镇江</CITY>
+        <PINYIN>ZhenJiang</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>38</C0>
+        <CITY>长沙</CITY>
+        <PINYIN>ChangSha</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>39</C0>
+        <CITY>上海</CITY>
+        <PINYIN>ShangHai</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>40</C0>
+        <CITY>中山</CITY>
+        <PINYIN>ZhongShan</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>41</C0>
+        <CITY>乌鲁木齐</CITY>
+        <PINYIN>WuLuMuQi</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>42</C0>
+        <CITY>保定</CITY>
+        <PINYIN>BaoDing</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>43</C0>
+        <CITY>北京</CITY>
+        <PINYIN>BeiJing</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>44</C0>
+        <CITY>南宁</CITY>
+        <PINYIN>NanNing</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>45</C0>
+        <CITY>南通</CITY>
+        <PINYIN>NanTong</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>46</C0>
+        <CITY>台州</CITY>
+        <PINYIN>TaiZhou</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>47</C0>
+        <CITY>呼和浩特</CITY>
+        <PINYIN>HuHeHaoTe</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>48</C0>
+        <CITY>唐山</CITY>
+        <PINYIN>TangShan</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>49</C0>
+        <CITY>大庆</CITY>
+        <PINYIN>DaQing</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>50</C0>
+        <CITY>天津</CITY>
+        <PINYIN>TianJin</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>51</C0>
+        <CITY>宁波</CITY>
+        <PINYIN>NingBo</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>52</C0>
+        <CITY>常州</CITY>
+        <PINYIN>ChangZhou</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>53</C0>
+        <CITY>廊坊</CITY>
+        <PINYIN>LangFang</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>54</C0>
+        <CITY>徐州</CITY>
+        <PINYIN>XuZhou</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>55</C0>
+        <CITY>成都</CITY>
+        <PINYIN>ChengDu</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>56</C0>
+        <CITY>承德</CITY>
+        <PINYIN>ChengDe</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>57</C0>
+        <CITY>无锡</CITY>
+        <PINYIN>WuXi</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>58</C0>
+        <CITY>杭州</CITY>
+        <PINYIN>HangZhou</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>59</C0>
+        <CITY>武汉</CITY>
+        <PINYIN>WuHan</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>60</C0>
+        <CITY>沈阳</CITY>
+        <PINYIN>ShenYang</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>61</C0>
+        <CITY>泰州</CITY>
+        <PINYIN>TaiZhou</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>62</C0>
+        <CITY>海口</CITY>
+        <PINYIN>HaiKou</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>63</C0>
+        <CITY>深圳</CITY>
+        <PINYIN>ShenZhen</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>64</C0>
+        <CITY>湖州</CITY>
+        <PINYIN>HuZhou</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>65</C0>
+        <CITY>珠海</CITY>
+        <PINYIN>ZhuHai</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>66</C0>
+        <CITY>石家庄</CITY>
+        <PINYIN>ShiJiaZhuang</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>67</C0>
+        <CITY>秦皇岛</CITY>
+        <PINYIN>QinHuangDao</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>68</C0>
+        <CITY>肇庆</CITY>
+        <PINYIN>ZhaoQing</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>69</C0>
+        <CITY>苏州</CITY>
+        <PINYIN>SuZhou</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>70</C0>
+        <CITY>衢州</CITY>
+        <PINYIN>QuZhou</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>71</C0>
+        <CITY>西安</CITY>
+        <PINYIN>XiAn</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>72</C0>
+        <CITY>连云港</CITY>
+        <PINYIN>LianYunGang</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>73</C0>
+        <CITY>邯郸</CITY>
+        <PINYIN>HanDan</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>74</C0>
+        <CITY>重庆</CITY>
+        <PINYIN>ChongQing</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>75</C0>
+        <CITY>银川</CITY>
+        <PINYIN>YinChuan</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>76</C0>
+        <CITY>长春</CITY>
+        <PINYIN>ChangChun</PINYIN>
+    </ROW>
+    
+    <ROW>
+        <C0>77</C0>
+        <CITY>青岛</CITY>
+        <PINYIN>QingDao</PINYIN>
+    </ROW>
+    
+</ROWDATA>

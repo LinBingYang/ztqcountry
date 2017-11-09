@@ -1,0 +1,634 @@
+﻿<?xml version="1.0" ?>
+<ROWDATA>
+
+<ROW>
+  <ID>58847</ID>
+  <PARENT_ID>58847</PARENT_ID>
+  <NAME>福州</NAME>
+  <SHOW_NAME>福州-福州</SHOW_NAME>
+  <PIN_YIN>FuZhou</PIN_YIN>
+  <PY>FZ</PY>
+</ROW>
+
+<ROW>
+  <ID>58941</ID>
+  <PARENT_ID>58847</PARENT_ID>
+  <NAME>长乐</NAME>
+  <SHOW_NAME>福州-长乐</SHOW_NAME>
+  <PIN_YIN>ChangLe</PIN_YIN>
+  <PY>CL</PY>
+</ROW>
+
+<ROW>
+  <ID>58942</ID>
+  <PARENT_ID>58847</PARENT_ID>
+  <NAME>福清</NAME>
+  <SHOW_NAME>福州-福清</SHOW_NAME>
+  <PIN_YIN>FuQing</PIN_YIN>
+  <PY>FQ</PY>
+</ROW>
+
+<ROW>
+  <ID>58940</ID>
+  <PARENT_ID>58847</PARENT_ID>
+  <NAME>晋安</NAME>
+  <SHOW_NAME>福州-晋安</SHOW_NAME>
+  <PIN_YIN>JinAn</PIN_YIN>
+  <PY>JA</PY>
+</ROW>
+
+<ROW>
+  <ID>58848</ID>
+  <PARENT_ID>58847</PARENT_ID>
+  <NAME>连江</NAME>
+  <SHOW_NAME>福州-连江</SHOW_NAME>
+  <PIN_YIN>LianJiang</PIN_YIN>
+  <PY>LJ</PY>
+</ROW>
+
+<ROW>
+  <ID>58845</ID>
+  <PARENT_ID>58847</PARENT_ID>
+  <NAME>罗源</NAME>
+  <SHOW_NAME>福州-罗源</SHOW_NAME>
+  <PIN_YIN>LuoYuan</PIN_YIN>
+  <PY>LY</PY>
+</ROW>
+
+<ROW>
+  <ID>58844</ID>
+  <PARENT_ID>58847</PARENT_ID>
+  <NAME>闽侯</NAME>
+  <SHOW_NAME>福州-闽侯</SHOW_NAME>
+  <PIN_YIN>MinHou</PIN_YIN>
+  <PY>MH</PY>
+</ROW>
+
+<ROW>
+  <ID>58839</ID>
+  <PARENT_ID>58847</PARENT_ID>
+  <NAME>闽清</NAME>
+  <SHOW_NAME>福州-闽清</SHOW_NAME>
+  <PIN_YIN>MinQing</PIN_YIN>
+  <PY>MQ</PY>
+</ROW>
+
+<ROW>
+  <ID>58932</ID>
+  <PARENT_ID>58847</PARENT_ID>
+  <NAME>永泰</NAME>
+  <SHOW_NAME>福州-永泰</SHOW_NAME>
+  <PIN_YIN>YongTai</PIN_YIN>
+  <PY>YT</PY>
+</ROW>
+
+<ROW>
+  <ID>58927</ID>
+  <PARENT_ID>58927</PARENT_ID>
+  <NAME>龙岩</NAME>
+  <SHOW_NAME>龙岩-龙岩</SHOW_NAME>
+  <PIN_YIN>LongYan</PIN_YIN>
+  <PY>LY</PY>
+</ROW>
+
+<ROW>
+  <ID>58911</ID>
+  <PARENT_ID>58927</PARENT_ID>
+  <NAME>长汀</NAME>
+  <SHOW_NAME>龙岩-长汀</SHOW_NAME>
+  <PIN_YIN>ChangDing</PIN_YIN>
+  <PY>CD</PY>
+</ROW>
+
+<ROW>
+  <ID>58912</ID>
+  <PARENT_ID>58927</PARENT_ID>
+  <NAME>连城</NAME>
+  <SHOW_NAME>龙岩-连城</SHOW_NAME>
+  <PIN_YIN>LianCheng</PIN_YIN>
+  <PY>LC</PY>
+</ROW>
+
+<ROW>
+  <ID>58918</ID>
+  <PARENT_ID>58927</PARENT_ID>
+  <NAME>上杭</NAME>
+  <SHOW_NAME>龙岩-上杭</SHOW_NAME>
+  <PIN_YIN>ShangHang</PIN_YIN>
+  <PY>SH</PY>
+</ROW>
+
+<ROW>
+  <ID>58917</ID>
+  <PARENT_ID>58927</PARENT_ID>
+  <NAME>武平</NAME>
+  <SHOW_NAME>龙岩-武平</SHOW_NAME>
+  <PIN_YIN>WuPing</PIN_YIN>
+  <PY>WP</PY>
+</ROW>
+
+<ROW>
+  <ID>59113</ID>
+  <PARENT_ID>58927</PARENT_ID>
+  <NAME>永定</NAME>
+  <SHOW_NAME>龙岩-永定</SHOW_NAME>
+  <PIN_YIN>YongDing</PIN_YIN>
+  <PY>YD</PY>
+</ROW>
+
+<ROW>
+  <ID>58926</ID>
+  <PARENT_ID>58927</PARENT_ID>
+  <NAME>漳平</NAME>
+  <SHOW_NAME>龙岩-漳平</SHOW_NAME>
+  <PIN_YIN>ZhangPing</PIN_YIN>
+  <PY>ZP</PY>
+</ROW>
+
+<ROW>
+  <ID>58846</ID>
+  <PARENT_ID>58846</PARENT_ID>
+  <NAME>宁德</NAME>
+  <SHOW_NAME>宁德-宁德</SHOW_NAME>
+  <PIN_YIN>NingDe</PIN_YIN>
+  <PY>ND</PY>
+</ROW>
+
+<ROW>
+  <ID>58748</ID>
+  <PARENT_ID>58846</PARENT_ID>
+  <NAME>福安</NAME>
+  <SHOW_NAME>宁德-福安</SHOW_NAME>
+  <PIN_YIN>FuAn</PIN_YIN>
+  <PY>FA</PY>
+</ROW>
+
+<ROW>
+  <ID>58754</ID>
+  <PARENT_ID>58846</PARENT_ID>
+  <NAME>福鼎</NAME>
+  <SHOW_NAME>宁德-福鼎</SHOW_NAME>
+  <PIN_YIN>FuDing</PIN_YIN>
+  <PY>FD</PY>
+</ROW>
+
+<ROW>
+  <ID>58836</ID>
+  <PARENT_ID>58846</PARENT_ID>
+  <NAME>古田</NAME>
+  <SHOW_NAME>宁德-古田</SHOW_NAME>
+  <PIN_YIN>GuTian</PIN_YIN>
+  <PY>GT</PY>
+</ROW>
+
+<ROW>
+  <ID>58933</ID>
+  <PARENT_ID>58846</PARENT_ID>
+  <NAME>屏南</NAME>
+  <SHOW_NAME>宁德-屏南</SHOW_NAME>
+  <PIN_YIN>PingNan</PIN_YIN>
+  <PY>PN</PY>
+</ROW>
+
+<ROW>
+  <ID>58744</ID>
+  <PARENT_ID>58846</PARENT_ID>
+  <NAME>寿宁</NAME>
+  <SHOW_NAME>宁德-寿宁</SHOW_NAME>
+  <PIN_YIN>ShouNing</PIN_YIN>
+  <PY>SN</PY>
+</ROW>
+
+<ROW>
+  <ID>58843</ID>
+  <PARENT_ID>58846</PARENT_ID>
+  <NAME>霞浦</NAME>
+  <SHOW_NAME>宁德-霞浦</SHOW_NAME>
+  <PIN_YIN>XiaPu</PIN_YIN>
+  <PY>XP</PY>
+</ROW>
+
+<ROW>
+  <ID>58747</ID>
+  <PARENT_ID>58846</PARENT_ID>
+  <NAME>周宁</NAME>
+  <SHOW_NAME>宁德-周宁</SHOW_NAME>
+  <PIN_YIN>ZhouNing</PIN_YIN>
+  <PY>ZN</PY>
+</ROW>
+
+<ROW>
+  <ID>58749</ID>
+  <PARENT_ID>58846</PARENT_ID>
+  <NAME>柘荣</NAME>
+  <SHOW_NAME>宁德-柘荣</SHOW_NAME>
+  <PIN_YIN>ZheRong</PIN_YIN>
+  <PY>ZR</PY>
+</ROW>
+
+<ROW>
+  <ID>58834</ID>
+  <PARENT_ID>58834</PARENT_ID>
+  <NAME>南平</NAME>
+  <SHOW_NAME>南平-南平</SHOW_NAME>
+  <PIN_YIN>NanPing</PIN_YIN>
+  <PY>NP</PY>
+</ROW>
+
+<ROW>
+  <ID>58724</ID>
+  <PARENT_ID>58834</PARENT_ID>
+  <NAME>光泽</NAME>
+  <SHOW_NAME>南平-光泽</SHOW_NAME>
+  <PIN_YIN>GuangZe</PIN_YIN>
+  <PY>GZ</PY>
+</ROW>
+
+<ROW>
+  <ID>58737</ID>
+  <PARENT_ID>58834</PARENT_ID>
+  <NAME>建瓯</NAME>
+  <SHOW_NAME>南平-建瓯</SHOW_NAME>
+  <PIN_YIN>JianOu</PIN_YIN>
+  <PY>JQ</PY>
+</ROW>
+
+<ROW>
+  <ID>58734</ID>
+  <PARENT_ID>58834</PARENT_ID>
+  <NAME>建阳</NAME>
+  <SHOW_NAME>南平-建阳</SHOW_NAME>
+  <PIN_YIN>JianYang</PIN_YIN>
+  <PY>JY</PY>
+</ROW>
+
+<ROW>
+  <ID>58731</ID>
+  <PARENT_ID>58834</PARENT_ID>
+  <NAME>浦城</NAME>
+  <SHOW_NAME>南平-浦城</SHOW_NAME>
+  <PIN_YIN>PuCheng</PIN_YIN>
+  <PY>PC</PY>
+</ROW>
+
+<ROW>
+  <ID>58823</ID>
+  <PARENT_ID>58834</PARENT_ID>
+  <NAME>顺昌</NAME>
+  <SHOW_NAME>南平-顺昌</SHOW_NAME>
+  <PIN_YIN>ShunChang</PIN_YIN>
+  <PY>SC</PY>
+</ROW>
+
+<ROW>
+  <ID>58725</ID>
+  <PARENT_ID>58834</PARENT_ID>
+  <NAME>邵武</NAME>
+  <SHOW_NAME>南平-邵武</SHOW_NAME>
+  <PIN_YIN>ShaoWu</PIN_YIN>
+  <PY>SW</PY>
+</ROW>
+
+<ROW>
+  <ID>58735</ID>
+  <PARENT_ID>58834</PARENT_ID>
+  <NAME>松溪</NAME>
+  <SHOW_NAME>南平-松溪</SHOW_NAME>
+  <PIN_YIN>SongXi</PIN_YIN>
+  <PY>SX</PY>
+</ROW>
+
+<ROW>
+  <ID>58730</ID>
+  <PARENT_ID>58834</PARENT_ID>
+  <NAME>武夷山</NAME>
+  <SHOW_NAME>南平-武夷山</SHOW_NAME>
+  <PIN_YIN>WuYiShan</PIN_YIN>
+  <PY>WYS</PY>
+</ROW>
+
+<ROW>
+  <ID>58736</ID>
+  <PARENT_ID>58834</PARENT_ID>
+  <NAME>政和</NAME>
+  <SHOW_NAME>南平-政和</SHOW_NAME>
+  <PIN_YIN>ZhengHe</PIN_YIN>
+  <PY>ZH</PY>
+</ROW>
+
+<ROW>
+  <ID>58946</ID>
+  <PARENT_ID>58946</PARENT_ID>
+  <NAME>莆田</NAME>
+  <SHOW_NAME>莆田-莆田</SHOW_NAME>
+  <PIN_YIN>PuTian</PIN_YIN>
+  <PY>PT</PY>
+</ROW>
+
+<ROW>
+  <ID>58944</ID>
+  <PARENT_ID>58944</PARENT_ID>
+  <NAME>平潭</NAME>
+  <SHOW_NAME>平潭-平潭</SHOW_NAME>
+  <PIN_YIN>PingTan</PIN_YIN>
+  <PY>PT</PY>
+</ROW>
+
+<ROW>
+  <ID>58938</ID>
+  <PARENT_ID>58946</PARENT_ID>
+  <NAME>秀屿</NAME>
+  <SHOW_NAME>莆田-秀屿</SHOW_NAME>
+  <PIN_YIN>XiuYu</PIN_YIN>
+  <PY>XY</PY>
+</ROW>
+
+<ROW>
+  <ID>58936</ID>
+  <PARENT_ID>58946</PARENT_ID>
+  <NAME>仙游</NAME>
+  <SHOW_NAME>莆田-仙游</SHOW_NAME>
+  <PIN_YIN>XianYou</PIN_YIN>
+  <PY>XY</PY>
+</ROW>
+
+<ROW>
+  <ID>59133</ID>
+  <PARENT_ID>59133</PARENT_ID>
+  <NAME>泉州</NAME>
+  <SHOW_NAME>泉州-泉州</SHOW_NAME>
+  <PIN_YIN>QuanZhou</PIN_YIN>
+  <PY>QZ</PY>
+</ROW>
+
+<ROW>
+  <ID>58929</ID>
+  <PARENT_ID>59133</PARENT_ID>
+  <NAME>安溪</NAME>
+  <SHOW_NAME>泉州-安溪</SHOW_NAME>
+  <PIN_YIN>AnXi</PIN_YIN>
+  <PY>AX</PY>
+</ROW>
+
+<ROW>
+  <ID>59133</ID>
+  <PARENT_ID>59133</PARENT_ID>
+  <NAME>崇武</NAME>
+  <SHOW_NAME>泉州-崇武</SHOW_NAME>
+  <PIN_YIN>CongWu</PIN_YIN>
+  <PY>CW</PY>
+</ROW>
+
+<ROW>
+  <ID>58935</ID>
+  <PARENT_ID>59133</PARENT_ID>
+  <NAME>德化</NAME>
+  <SHOW_NAME>泉州-德化</SHOW_NAME>
+  <PIN_YIN>DeHua</PIN_YIN>
+  <PY>DH</PY>
+</ROW>
+
+<ROW>
+  <ID>59133</ID>
+  <PARENT_ID>59133</PARENT_ID>
+  <NAME>惠安</NAME>
+  <SHOW_NAME>泉州-惠安</SHOW_NAME>
+  <PIN_YIN>HuiAn</PIN_YIN>
+  <PY>HA</PY>
+</ROW>
+
+<ROW>
+  <ID>59137</ID>
+  <PARENT_ID>59133</PARENT_ID>
+  <NAME>晋江</NAME>
+  <SHOW_NAME>泉州-晋江</SHOW_NAME>
+  <PIN_YIN>JinJiang</PIN_YIN>
+  <PY>JJ</PY>
+</ROW>
+
+<ROW>
+  <ID>59131</ID>
+  <PARENT_ID>59133</PARENT_ID>
+  <NAME>南安</NAME>
+  <SHOW_NAME>泉州-南安</SHOW_NAME>
+  <PIN_YIN>NanAn</PIN_YIN>
+  <PY>NA</PY>
+</ROW>
+
+<ROW>
+  <ID>58921</ID>
+  <PARENT_ID>59133</PARENT_ID>
+  <NAME>永安</NAME>
+  <SHOW_NAME>泉州-永安</SHOW_NAME>
+  <PIN_YIN>YongAn</PIN_YIN>
+  <PY>YA</PY>
+</ROW>
+
+<ROW>
+  <ID>58934</ID>
+  <PARENT_ID>59133</PARENT_ID>
+  <NAME>永春</NAME>
+  <SHOW_NAME>泉州-永春</SHOW_NAME>
+  <PIN_YIN>YongChun</PIN_YIN>
+  <PY>YC</PY>
+</ROW>
+
+<ROW>
+  <ID>58828</ID>
+  <PARENT_ID>58828</PARENT_ID>
+  <NAME>三明</NAME>
+  <SHOW_NAME>三明-三明</SHOW_NAME>
+  <PIN_YIN>SanMing</PIN_YIN>
+  <PY>SM</PY>
+</ROW>
+
+<ROW>
+  <ID>58923</ID>
+  <PARENT_ID>58828</PARENT_ID>
+  <NAME>大田</NAME>
+  <SHOW_NAME>三明-大田</SHOW_NAME>
+  <PIN_YIN>DaTian</PIN_YIN>
+  <PY>DT</PY>
+</ROW>
+
+<ROW>
+  <ID>58821</ID>
+  <PARENT_ID>58828</PARENT_ID>
+  <NAME>将乐</NAME>
+  <SHOW_NAME>三明-将乐</SHOW_NAME>
+  <PIN_YIN>JiangLe</PIN_YIN>
+  <PY>JL</PY>
+</ROW>
+
+<ROW>
+  <ID>58822</ID>
+  <PARENT_ID>58828</PARENT_ID>
+  <NAME>建宁</NAME>
+  <SHOW_NAME>三明-建宁</SHOW_NAME>
+  <PIN_YIN>JianNing</PIN_YIN>
+  <PY>JN</PY>
+</ROW>
+
+<ROW>
+  <ID>58824</ID>
+  <PARENT_ID>58828</PARENT_ID>
+  <NAME>明溪</NAME>
+  <SHOW_NAME>三明-明溪</SHOW_NAME>
+  <PIN_YIN>MingXi</PIN_YIN>
+  <PY>MX</PY>
+</ROW>
+
+<ROW>
+  <ID>58818</ID>
+  <PARENT_ID>58828</PARENT_ID>
+  <NAME>宁化</NAME>
+  <SHOW_NAME>三明-宁化</SHOW_NAME>
+  <PIN_YIN>NingHua</PIN_YIN>
+  <PY>NH</PY>
+</ROW>
+
+<ROW>
+  <ID>58819</ID>
+  <PARENT_ID>58828</PARENT_ID>
+  <NAME>清流</NAME>
+  <SHOW_NAME>三明-清流</SHOW_NAME>
+  <PIN_YIN>QingLiu</PIN_YIN>
+  <PY>QL</PY>
+</ROW>
+
+<ROW>
+  <ID>58826</ID>
+  <PARENT_ID>58828</PARENT_ID>
+  <NAME>沙县</NAME>
+  <SHOW_NAME>三明-沙县</SHOW_NAME>
+  <PIN_YIN>ShaXian</PIN_YIN>
+  <PY>SX</PY>
+</ROW>
+
+<ROW>
+  <ID>58820</ID>
+  <PARENT_ID>58828</PARENT_ID>
+  <NAME>泰宁</NAME>
+  <SHOW_NAME>三明-泰宁</SHOW_NAME>
+  <PIN_YIN>TaiNing</PIN_YIN>
+  <PY>TN</PY>
+</ROW>
+
+<ROW>
+  <ID>58837</ID>
+  <PARENT_ID>58828</PARENT_ID>
+  <NAME>尤溪</NAME>
+  <SHOW_NAME>三明-尤溪</SHOW_NAME>
+  <PIN_YIN>YouXi</PIN_YIN>
+  <PY>YX</PY>
+</ROW>
+
+<ROW>
+  <ID>59134</ID>
+  <PARENT_ID>59134</PARENT_ID>
+  <NAME>厦门</NAME>
+  <SHOW_NAME>厦门-厦门</SHOW_NAME>
+  <PIN_YIN>XiaMen</PIN_YIN>
+  <PY>XM</PY>
+</ROW>
+
+<ROW>
+  <ID>59130</ID>
+  <PARENT_ID>59134</PARENT_ID>
+  <NAME>同安</NAME>
+  <SHOW_NAME>厦门-同安</SHOW_NAME>
+  <PIN_YIN>TongAn</PIN_YIN>
+  <PY>TA</PY>
+</ROW>
+
+<ROW>
+  <ID>59126</ID>
+  <PARENT_ID>59126</PARENT_ID>
+  <NAME>漳州</NAME>
+  <SHOW_NAME>漳州-漳州</SHOW_NAME>
+  <PIN_YIN>ZhangZhou</PIN_YIN>
+  <PY>ZZ</PY>
+</ROW>
+
+<ROW>
+  <ID>59122</ID>
+  <PARENT_ID>59126</PARENT_ID>
+  <NAME>长泰</NAME>
+  <SHOW_NAME>漳州-长泰</SHOW_NAME>
+  <PIN_YIN>ChangTai</PIN_YIN>
+  <PY>CT</PY>
+</ROW>
+
+<ROW>
+  <ID>59321</ID>
+  <PARENT_ID>59126</PARENT_ID>
+  <NAME>东山</NAME>
+  <SHOW_NAME>漳州-东山</SHOW_NAME>
+  <PIN_YIN>DongShan</PIN_YIN>
+  <PY>DS</PY>
+</ROW>
+
+<ROW>
+  <ID>58928</ID>
+  <PARENT_ID>59126</PARENT_ID>
+  <NAME>华安</NAME>
+  <SHOW_NAME>漳州-华安</SHOW_NAME>
+  <PIN_YIN>HuaAn</PIN_YIN>
+  <PY>HA</PY>
+</ROW>
+
+<ROW>
+  <ID>59127</ID>
+  <PARENT_ID>59126</PARENT_ID>
+  <NAME>龙海</NAME>
+  <SHOW_NAME>漳州-龙海</SHOW_NAME>
+  <PIN_YIN>LongHai</PIN_YIN>
+  <PY>LH</PY>
+</ROW>
+
+<ROW>
+  <ID>59124</ID>
+  <PARENT_ID>59126</PARENT_ID>
+  <NAME>南靖</NAME>
+  <SHOW_NAME>漳州-南靖</SHOW_NAME>
+  <PIN_YIN>NanJing</PIN_YIN>
+  <PY>NJ</PY>
+</ROW>
+
+<ROW>
+  <ID>59125</ID>
+  <PARENT_ID>59126</PARENT_ID>
+  <NAME>平和</NAME>
+  <SHOW_NAME>漳州-平和</SHOW_NAME>
+  <PIN_YIN>PingHe</PIN_YIN>
+  <PY>PH</PY>
+</ROW>
+
+<ROW>
+  <ID>59320</ID>
+  <PARENT_ID>59126</PARENT_ID>
+  <NAME>诏安</NAME>
+  <SHOW_NAME>漳州-诏安</SHOW_NAME>
+  <PIN_YIN>ShaoAn</PIN_YIN>
+  <PY>SA</PY>
+</ROW>
+
+<ROW>
+  <ID>59322</ID>
+  <PARENT_ID>59126</PARENT_ID>
+  <NAME>云霄</NAME>
+  <SHOW_NAME>漳州-云霄</SHOW_NAME>
+  <PIN_YIN>YuXiao</PIN_YIN>
+  <PY>YX</PY>
+</ROW>
+
+<ROW>
+  <ID>59129</ID>
+  <PARENT_ID>59126</PARENT_ID>
+  <NAME>漳浦</NAME>
+  <SHOW_NAME>漳州-漳浦</SHOW_NAME>
+  <PIN_YIN>ZhangPu</PIN_YIN>
+  <PY>ZP</PY>
+</ROW>
+
+</ROWDATA>

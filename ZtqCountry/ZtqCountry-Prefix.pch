@@ -1,0 +1,51 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "Config.h"
+    #import "UIColor+utils.h"
+    #import "WBShareKey.h"
+    #import "ROConnect.h"
+    #import "ShareFun.h"
+    #import "setting.h"
+    #import "NetWorkCenter.h"
+    #import <UMSocialCore/UMSocialCore.h>
+    #import "MBProgressHUD.h"
+    #import "CustomNavigationController.h"
+    #import "BaseViewController.h"
+    #import "AFHTTPSessionManager.h"
+    #import "NSDictionary+UrlEncodedString.h"
+    #import "UIView+Extension.h"
+typedef enum {
+    YzhouTypeRain,
+    YzhouTypeTemp,
+    YzhouTypeWind
+}YzhouType;
+typedef  enum{
+    tempTypeHigt,
+    tempTypeLow,
+    tempTypeNormalHigt,
+    tempTypeNormalLow
+}tempType;
+typedef  enum{
+    WindTypeSK,
+    WindTypeSKNormal
+}WindType;
+#define COLORGRADE0 ([UIColor colorWithRed:101.0/255.0f green:240.0/255.0f blue:2.0/255.0f alpha:1.0f])
+#define COLORGRADE1 ([UIColor colorWithRed:255.0/255.0f green:255.0/255.0f blue:28.0/255.0f alpha:1.0f])
+#define COLORGRADE2 ([UIColor colorWithRed:253.0/255.0f green:164.0/255.0f blue:10.0/255.0f alpha:1.0f])
+#define COLORGRADE3 ([UIColor colorWithRed:239.0/255.0f green:8.0/255.0f blue:2.0/255.0f alpha:1.0f])
+#define COLORGRADE4 ([UIColor colorWithHexColor:@"990099" withAlpha:1.0])
+#define COLORGRADE5 ([UIColor colorWithHexColor:@"660000" withAlpha:1.0])
+#endif

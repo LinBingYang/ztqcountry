@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" ?>
+<ROWDATA>
+
+<ROW>
+  <ID>58847</ID>
+  <PARENT_ID>0</PARENT_ID>
+  <NAME>福州</NAME>
+  <SHOW_NAME>福州</SHOW_NAME>
+  <PIN_YIN>FuZhou</PIN_YIN>
+  <PY>FZ</PY>
+</ROW>
+
+<ROW>
+  <ID>58927</ID>
+  <PARENT_ID>0</PARENT_ID>
+  <NAME>龙岩</NAME>
+  <SHOW_NAME>龙岩</SHOW_NAME>
+  <PIN_YIN>LongYan</PIN_YIN>
+  <PY>LY</PY>
+</ROW>
+
+<ROW>
+  <ID>58846</ID>
+  <PARENT_ID>0</PARENT_ID>
+  <NAME>宁德</NAME>
+  <SHOW_NAME>宁德</SHOW_NAME>
+  <PIN_YIN>NingDe</PIN_YIN>
+  <PY>ND</PY>
+</ROW>
+
+<ROW>
+  <ID>58834</ID>
+  <PARENT_ID>0</PARENT_ID>
+  <NAME>南平</NAME>
+  <SHOW_NAME>南平</SHOW_NAME>
+  <PIN_YIN>NanPing</PIN_YIN>
+  <PY>NP</PY>
+</ROW>
+
+<ROW>
+  <ID>58946</ID>
+  <PARENT_ID>0</PARENT_ID>
+  <NAME>莆田</NAME>
+  <SHOW_NAME>莆田</SHOW_NAME>
+  <PIN_YIN>PuTian</PIN_YIN>
+  <PY>PT</PY>
+</ROW>
+
+<ROW>
+  <ID>58944</ID>
+  <PARENT_ID>0</PARENT_ID>
+  <NAME>平潭</NAME>
+  <SHOW_NAME>平潭</SHOW_NAME>
+  <PIN_YIN>PingTan</PIN_YIN>
+  <PY>PT</PY>
+</ROW>
+
+<ROW>
+  <ID>59133</ID>
+  <PARENT_ID>0</PARENT_ID>
+  <NAME>泉州</NAME>
+  <SHOW_NAME>泉州</SHOW_NAME>
+  <PIN_YIN>QuanZhou</PIN_YIN>
+  <PY>QZ</PY>
+</ROW>
+
+<ROW>
+  <ID>58828</ID>
+  <PARENT_ID>0</PARENT_ID>
+  <NAME>三明</NAME>
+  <SHOW_NAME>三明</SHOW_NAME>
+  <PIN_YIN>SanMing</PIN_YIN>
+  <PY>SM</PY>
+</ROW>
+
+<ROW>
+  <ID>59134</ID>
+  <PARENT_ID>0</PARENT_ID>
+  <NAME>厦门</NAME>
+  <SHOW_NAME>厦门</SHOW_NAME>
+  <PIN_YIN>XiaMen</PIN_YIN>
+  <PY>XM</PY>
+</ROW>
+
+<ROW>
+  <ID>59126</ID>
+  <PARENT_ID>0</PARENT_ID>
+  <NAME>漳州</NAME>
+  <SHOW_NAME>漳州</SHOW_NAME>
+  <PIN_YIN>ZhangZhou</PIN_YIN>
+  <PY>ZZ</PY>
+</ROW>
+
+</ROWDATA>

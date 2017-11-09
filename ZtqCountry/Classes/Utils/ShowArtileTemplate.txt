@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type"
+			content="application/xhtml+xml; charset=utf-8" />
+		<style type="text/css">
+body {
+	font-size: medium;
+	line-height: 1.6em;
+	text-align: left;
+}
+
+h1 {
+	text-align: center;
+	font-size: medium;
+}
+p {
+display: block;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+text-align: left;
+}
+.lm {
+font-weight: bold;
+background: #EAF7FF;
+border-top: 1px solid #9ECAEF;
+border-bottom: 1px solid #9ECAEF;
+font-size: medium;
+padding: 2px 0px 2px 4px;
+}
+</style>
+	</head>
+	<body>
+		<h1>{$title}</h1>
+		<h1>{$ptime}</h1>
+		<p>{$content}</p>         
+	</body>
+</html>

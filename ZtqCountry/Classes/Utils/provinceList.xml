@@ -1,0 +1,330 @@
+<?xml version="1.0" ?>
+<ROWDATA>
+    
+    <ROW>
+        <ID>25147</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>北京</NAME>
+        <SHOW_NAME>北京</SHOW_NAME>
+        <PIN_YIN>BeiJing</PIN_YIN>
+        <PY>BJ</PY>
+    </ROW>
+    
+   
+    
+    <ROW>
+        <ID>0</ID>
+        <PARENTID>0</PARENTID>
+        <NAME>A-Z</NAME>
+        <SHOW_NAME>A-Z</SHOW_NAME>
+        <PINGYIN>0</PINGYIN>
+        <PY>0</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25168</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>安徽</NAME>
+        <SHOW_NAME>安徽</SHOW_NAME>
+        <PIN_YIN>AnHui</PIN_YIN>
+        <PY>AH</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25179</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>澳门</NAME>
+        <SHOW_NAME>澳门</SHOW_NAME>
+        <PIN_YIN>AoMen</PIN_YIN>
+        <PY>AM</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25150</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>重庆</NAME>
+        <SHOW_NAME>重庆</SHOW_NAME>
+        <PIN_YIN>ChongQing</PIN_YIN>
+        <PY>CQ</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25555</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>钓鱼岛</NAME>
+        <SHOW_NAME>钓鱼岛</SHOW_NAME>
+        <PIN_YIN>DiaoYuDao</PIN_YIN>
+        <PY>DYD</PY>
+    </ROW>
+    <ROW>
+        <ID>25169</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>福建</NAME>
+        <SHOW_NAME>福建</SHOW_NAME>
+        <PIN_YIN>FuJian</PIN_YIN>
+        <PY>FJ</PY>
+    </ROW>
+    <ROW>
+        <ID>25162</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>甘肃</NAME>
+        <SHOW_NAME>甘肃</SHOW_NAME>
+        <PIN_YIN>GanSu</PIN_YIN>
+        <PY>GS</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25174</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>广东</NAME>
+        <SHOW_NAME>广东</SHOW_NAME>
+        <PIN_YIN>GuangDong</PIN_YIN>
+        <PY>GD</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25176</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>广西</NAME>
+        <SHOW_NAME>广西</SHOW_NAME>
+        <PIN_YIN>GuangXi</PIN_YIN>
+        <PY>GX</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25172</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>贵州</NAME>
+        <SHOW_NAME>贵州</SHOW_NAME>
+        <PIN_YIN>GuiZhou</PIN_YIN>
+        <PY>GZ</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25177</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>海南</NAME>
+        <SHOW_NAME>海南</SHOW_NAME>
+        <PIN_YIN>HaiNan</PIN_YIN>
+        <PY>HN</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25155</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>河北</NAME>
+        <SHOW_NAME>河北</SHOW_NAME>
+        <PIN_YIN>HeBei</PIN_YIN>
+        <PY>HB</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25164</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>河南</NAME>
+        <SHOW_NAME>河南</SHOW_NAME>
+        <PIN_YIN>HeNan</PIN_YIN>
+        <PY>HN</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25151</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>黑龙江</NAME>
+        <SHOW_NAME>黑龙江</SHOW_NAME>
+        <PIN_YIN>HeiLongJiang</PIN_YIN>
+        <PY>HLJ</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25166</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>湖北</NAME>
+        <SHOW_NAME>湖北</SHOW_NAME>
+        <PIN_YIN>HuBei</PIN_YIN>
+        <PY>HB</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25171</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>湖南</NAME>
+        <SHOW_NAME>湖南</SHOW_NAME>
+        <PIN_YIN>HuNan</PIN_YIN>
+        <PY>HN</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25152</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>吉林</NAME>
+        <SHOW_NAME>吉林</SHOW_NAME>
+        <PIN_YIN>JiLin</PIN_YIN>
+        <PY>JL</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25165</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>江苏</NAME>
+        <SHOW_NAME>江苏</SHOW_NAME>
+        <PIN_YIN>JiangSu</PIN_YIN>
+        <PY>JS</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25170</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>江西</NAME>
+        <SHOW_NAME>江西</SHOW_NAME>
+        <PIN_YIN>JiangXi</PIN_YIN>
+        <PY>JX</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25153</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>辽宁</NAME>
+        <SHOW_NAME>辽宁</SHOW_NAME>
+        <PIN_YIN>LiaoNing</PIN_YIN>
+        <PY>LN</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25154</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>内蒙古</NAME>
+        <SHOW_NAME>内蒙古</SHOW_NAME>
+        <PIN_YIN>NeiMengGu</PIN_YIN>
+        <PY>NMG</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25163</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>宁夏</NAME>
+        <SHOW_NAME>宁夏</SHOW_NAME>
+        <PIN_YIN>NingXia</PIN_YIN>
+        <PY>NX</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25161</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>青海</NAME>
+        <SHOW_NAME>青海</SHOW_NAME>
+        <PIN_YIN>QingHai</PIN_YIN>
+        <PY>QH</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25158</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>山东</NAME>
+        <SHOW_NAME>山东</SHOW_NAME>
+        <PIN_YIN>ShanDong</PIN_YIN>
+        <PY>SD</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25156</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>山西</NAME>
+        <SHOW_NAME>山西</SHOW_NAME>
+        <PIN_YIN>ShanXi</PIN_YIN>
+        <PY>SX</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25157</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>陕西</NAME>
+        <SHOW_NAME>陕西</SHOW_NAME>
+        <PIN_YIN>ShanXi</PIN_YIN>
+        <PY>SX</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25148</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>上海</NAME>
+        <SHOW_NAME>上海</SHOW_NAME>
+        <PIN_YIN>ShangHai</PIN_YIN>
+        <PY>SH</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25173</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>四川</NAME>
+        <SHOW_NAME>四川</SHOW_NAME>
+        <PIN_YIN>SiChuan</PIN_YIN>
+        <PY>SC</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25180</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>台湾</NAME>
+        <SHOW_NAME>台湾</SHOW_NAME>
+        <PIN_YIN>TaiWan</PIN_YIN>
+        <PY>TW</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25149</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>天津</NAME>
+        <SHOW_NAME>天津</SHOW_NAME>
+        <PIN_YIN>TianJin</PIN_YIN>
+        <PY>TJ</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25160</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>西藏</NAME>
+        <SHOW_NAME>西藏</SHOW_NAME>
+        <PIN_YIN>XiZang</PIN_YIN>
+        <PY>XZ</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25178</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>香港</NAME>
+        <SHOW_NAME>香港</SHOW_NAME>
+        <PIN_YIN>XiangGang</PIN_YIN>
+        <PY>XG</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25159</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>新疆</NAME>
+        <SHOW_NAME>新疆</SHOW_NAME>
+        <PIN_YIN>XinJiang</PIN_YIN>
+        <PY>XJ</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25175</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>云南</NAME>
+        <SHOW_NAME>云南</SHOW_NAME>
+        <PIN_YIN>YunNan</PIN_YIN>
+        <PY>YN</PY>
+    </ROW>
+    
+    <ROW>
+        <ID>25167</ID>
+        <PARENT_ID>0</PARENT_ID>
+        <NAME>浙江</NAME>
+        <SHOW_NAME>浙江</SHOW_NAME>
+        <PIN_YIN>ZheJiang</PIN_YIN>
+        <PY>ZJ</PY>
+    </ROW>
+    
+   
+    
+</ROWDATA>
