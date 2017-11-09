@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FC026254-816A-4F55-9403-A993DF73F7FB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ZtqCountry</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>14c383d4-019a-9a49-8f0c-15efb93814ab++3123</key>
+		<string>http://192.168.15.14/%E8%BF%90%E8%90%A5%E9%A1%B9%E7%9B%AE/%25E7%259F%25A5%25E5%25A4%25A9%25E6%25B0%2594/%25E6%2596%25B0%25E7%2589%2588/%25E5%259F%25BA%25E7%25A1%2580%25E5%258C%2585/%25E6%2599%25AE%25E9%2580%259A%25E7%2589%2588/iphone/develop/sourcecode/debug/ZtqCountry</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ZtqCountry.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>14c383d4-019a-9a49-8f0c-15efb93814ab++3123</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>14c383d4-019a-9a49-8f0c-15efb93814ab++3123</key>
+		<string>http://192.168.15.14/%E8%BF%90%E8%90%A5%E9%A1%B9%E7%9B%AE</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://192.168.15.14/%E8%BF%90%E8%90%A5%E9%A1%B9%E7%9B%AE/%25E7%259F%25A5%25E5%25A4%25A9%25E6%25B0%2594/%25E6%2596%25B0%25E7%2589%2588/%25E5%259F%25BA%25E7%25A1%2580%25E5%258C%2585/%25E6%2599%25AE%25E9%2580%259A%25E7%2589%2588/iphone/develop/sourcecode/debug/ZtqCountry/ZtqCountry.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>14c383d4-019a-9a49-8f0c-15efb93814ab++3123</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>14c383d4-019a-9a49-8f0c-15efb93814ab++3123</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ZtqCountry</string>
+		</dict>
+	</array>
+</dict>
+</plist>
